@@ -1,0 +1,3 @@
+name: sud0x00
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
