@@ -1,0 +1,154 @@
+[
+    "speakers" :[
+        {
+            "title": "C++ Coding Standards",
+            "description": "TelTechnical",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Python Coding Standards",
+            "description": "TelTechnical",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "C Coding Optimization Techniques",
+            "description": "TelTechnical",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Motivation and Self development",
+            "description": "TelSoftSkills",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Japanese Cross Culture Etiquette",
+            "description": "TelSoftSkills",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "JavaScript   Level 1",
+            "description": "TelTechnical",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Performance Testing Using Locust 1.0",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Performance Testing using TruWeb",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Performance Testing using LoadRunner 12.50",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "CMocka RDK B Unit Testing",
+            "description": "TelProcess",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Model Based Testing using TPT (Time Partition Testing)",
+            "description": "TelTechnical",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Design Thinking Testing and Refining",
+            "description": "LinkedInCreative",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Rest API Testing (Automation) from Scratch Rest Assured Java",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Webservices API Testing with Rest Assured API & POSTMAN 2021",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Java Automated API Testing with REST Assured",
+            "description": "LinkedInTechnology",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "REST API Testing Automation using POSTMAN",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "REST API Testing with Karate Framework",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "REST API Automation With REST Assured   A Complete Guide",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Java 9 New Features In Simple Way  JShell JPMS and More",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Java 7 & Java 8 new features with Lambdas & Streams",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Learning Java Lambda Expressions",
+            "description": "LinkedInTechnology",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "First Look Java 9",
+            "description": "LinkedInTechnology",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Java Lambda & Streams [Examples With Selenium WebDriver]",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Revit 2019 New Features for Architecture",
+            "description": "LinkedInCreative",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Master Microservices with Spring Boot and Spring Cloud",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "RESTful Web Services Java Spring Boot Spring MVC and JPA",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Java EE 8 Web Services",
+            "description": "LinkedInTechnology",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Java EE 7 Web Services",
+            "description": "LinkedInTechnology",
+            "image": "images/linkedin.png"
+        },
+        {
+            "title": "Introduction to APIs   REST API GraphQL SOAP Web Services",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        },
+        {
+            "title": "Learn API & Webservices Testing",
+            "description": "UdemyTech",
+            "image": "images/udemy.png"
+        }
+    ]
+]
