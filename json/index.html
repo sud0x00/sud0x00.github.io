@@ -4,7 +4,7 @@
   <title>JSON Carousel</title>
   <meta charset="UTF-8">
   <link href='http://fonts.googleapis.com/css?family=Wendy+One|Libre+Baskerville' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="json/main.css" />
+  <link rel="stylesheet" href="main.css" />
 </head>
 <body>
   <div id="speakerbox">
@@ -29,7 +29,7 @@
 
 <script>
   $(function(){
-    $.getJSON('json/data.json', function(data){
+    $.getJSON('data.json', function(data){
       var template = $('#speakerstpl').html();
       var html = Mustache.to_html(template, data);
       $('#carousel').html(html);
