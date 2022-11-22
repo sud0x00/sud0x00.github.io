@@ -2,4 +2,3 @@ name: sud0x00
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 title: Sud's Hacker Cave
-theme: jekyll-theme-modernist
