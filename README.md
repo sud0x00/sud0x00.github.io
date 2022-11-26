@@ -6,7 +6,9 @@
 ![battlestation](https://cdna.artstation.com/p/assets/images/images/038/767/384/large/emaceart-image-000021h42m062.jpg?1638740739)
 
 
-[<a href="[https://www.glitter-graphics.com/myspace/text_generator.php](https://sud0x00.github.io/resources/)" target=_blank><img src="https://text.glitter-graphics.net/amflag/r.gif" border=0><img src="https://text.glitter-graphics.net/amflag/e.gif" border=0><img src="https://text.glitter-graphics.net/amflag/s.gif" border=0><img src="https://text.glitter-graphics.net/amflag/o.gif" border=0><img src="https://text.glitter-graphics.net/amflag/u.gif" border=0><img src="https://text.glitter-graphics.net/amflag/r.gif" border=0><img src="https://text.glitter-graphics.net/amflag/c.gif" border=0><img src="https://text.glitter-graphics.net/amflag/e.gif" border=0><img src="https://text.glitter-graphics.net/amflag/s.gif" border=0></a>]
+
+
+[<img src="https://sud0x00.github.io/images/buttons/resources.png" width="25"/>](https://sud0x00.github.io/resources/)
 
 
 
@@ -46,5 +48,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+[<a href="[https://www.glitter-graphics.com/myspace/text_generator.php]()" target=_blank><img src="https://text.glitter-graphics.net/amflag/r.gif" border=0><img src="https://text.glitter-graphics.net/amflag/e.gif" border=0><img src="https://text.glitter-graphics.net/amflag/s.gif" border=0><img src="https://text.glitter-graphics.net/amflag/o.gif" border=0><img src="https://text.glitter-graphics.net/amflag/u.gif" border=0><img src="https://text.glitter-graphics.net/amflag/r.gif" border=0><img src="https://text.glitter-graphics.net/amflag/c.gif" border=0><img src="https://text.glitter-graphics.net/amflag/e.gif" border=0><img src="https://text.glitter-graphics.net/amflag/s.gif" border=0></a>]
+
+
+
+
+
 -->
 
