@@ -6,7 +6,7 @@
 ![battlestation](https://cdna.artstation.com/p/assets/images/images/038/767/384/large/emaceart-image-000021h42m062.jpg?1638740739)
 
 
-[<a href="https://www.glitter-graphics.com/myspace/text_generator.php" target=_blank><img src="https://text.glitter-graphics.net/amflag/r.gif" border=0><img src="https://text.glitter-graphics.net/amflag/e.gif" border=0><img src="https://text.glitter-graphics.net/amflag/s.gif" border=0><img src="https://text.glitter-graphics.net/amflag/o.gif" border=0><img src="https://text.glitter-graphics.net/amflag/u.gif" border=0><img src="https://text.glitter-graphics.net/amflag/r.gif" border=0><img src="https://text.glitter-graphics.net/amflag/c.gif" border=0><img src="https://text.glitter-graphics.net/amflag/e.gif" border=0><img src="https://text.glitter-graphics.net/amflag/s.gif" border=0></a>](https://sud0x00.github.io/resources/)
+[<a href="[https://www.glitter-graphics.com/myspace/text_generator.php](https://sud0x00.github.io/resources/)" target=_blank><img src="https://text.glitter-graphics.net/amflag/r.gif" border=0><img src="https://text.glitter-graphics.net/amflag/e.gif" border=0><img src="https://text.glitter-graphics.net/amflag/s.gif" border=0><img src="https://text.glitter-graphics.net/amflag/o.gif" border=0><img src="https://text.glitter-graphics.net/amflag/u.gif" border=0><img src="https://text.glitter-graphics.net/amflag/r.gif" border=0><img src="https://text.glitter-graphics.net/amflag/c.gif" border=0><img src="https://text.glitter-graphics.net/amflag/e.gif" border=0><img src="https://text.glitter-graphics.net/amflag/s.gif" border=0></a>]
 
 
 
