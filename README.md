@@ -8,7 +8,7 @@
 
 
 
-[<img src="https://sud0x00.github.io/images/buttons/resources.png" width="25"/>](https://sud0x00.github.io/resources/)
+[<img src="https://sud0x00.github.io/images/buttons/resources.png" width="250"/>](https://sud0x00.github.io/resources/)
 
 
 
