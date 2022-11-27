@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://sud0x00.github.io/images/backgrounds/1353284.png');
+    background-image: url('https://sud0x00.github.io/images/backgrounds/bg.jpg');
     max-width:100%;
 }
 #mainbody {
@@ -42,3 +42,6 @@ h2 {
     margin: 0 auto;
     display: block;
 }
+
+/*    background-image: url('https://sud0x00.github.io/images/backgrounds/1353284.png');
+*/
