@@ -1,0 +1,44 @@
+body {
+    background-image: url('bg.jpg');
+    max-width:100%;
+}
+#mainbody {
+    border-radius: 25px;
+    background-color: rgb(216, 216, 216);
+    padding: 20px;
+    width: 860px;
+    margin: 0 auto;
+
+}   
+#main {
+    text-align: center;
+    font-family:  'BIZ UDMincho' ;
+    color: rgb(99, 5, 177);
+    font-size: xx-large;
+    background-color: aliceblue;
+    border-radius: 25px;
+    height: 70px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'BIZ UDMincho';
+    color: black;
+}
+
+.inner {
+    width: 850px;
+    display: block;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+
+.battlestation {
+    margin: 0 auto;
+}
+
+.battlestation > img {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
