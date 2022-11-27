@@ -9,7 +9,7 @@
 
 
 [<img src="https://sud0x00.github.io/images/buttons/resources.png" width="250"/>](https://sud0x00.github.io/resources/)
-[<img src="https://sud0x00.github.io/images/buttons/resources.png" width="250"/>](https://sud0x00.github.io/site/)
+[<img src="https://sud0x00.github.io/images/buttons/test.png" width="250"/>](https://sud0x00.github.io/site/)
 
 
 <!--
