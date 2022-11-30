@@ -1,6 +1,7 @@
 body {
     background-image: url('https://sud0x00.github.io/images/backgrounds/bg.jpg');
     max-width:100%;
+    cursor: url("https://github.com/sud0x00/sud0x00.github.io/images/others/clipart1877044_sailormoon.png") auto;
 }
 #mainbody {
     border-radius: 25px;
